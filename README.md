@@ -57,7 +57,6 @@ python orchestrator.py send <目标UID>
 ## 文件结构
 
 ```
-open_source/
 ├── config.py         # 配置：目标直播间、筛选阈值、路径
 ├── collector.py      # 采集：公开榜单 → 候选池
 ├── filter.py         # 筛选：硬规则打分 → 合格池
